@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khushi2762
-- 👀 I’m interested in Machine Learning and currently exploring my domain
+- 👀 I’m interested in Artificial Intelligence and Machine Learning and currently exploring my domain
 - 🌱 I’m currently working on my C skills, and learning Python
 - 📫 How to reach me : mail me at khushisharmapcm@gmail.com
 
